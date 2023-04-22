@@ -1,4 +1,4 @@
-package gerador;
+package paket ismi;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,8 @@ import java.net.URL;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-
+//ozaii#0001 tarafından yazılmıştır
+//maked by ozaii#0001
 public class lisance {
 	
 	public static void lisanceControl() {
